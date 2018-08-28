@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="activity_editor_layout_width">100dp</dimen>
+    <dimen name="activity_editor_paddingLeft">4dp</dimen>
+    <dimen name="activity_editor_paddingBottom">8dp</dimen>
+    <dimen name="activity_editor_layout_width_btn">0dp</dimen>
+    <dimen name="activity_editor_marginRight">20dp</dimen>
+
+    <dimen name="activity_main_paddingTop">16dp</dimen>
+
+    <dimen name="list_item_paddingRight">10dp</dimen>
+    <dimen name="list_item_layout_width_btn">0dp</dimen>
+</resources>

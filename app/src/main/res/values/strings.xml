@@ -1,0 +1,69 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Inventory App</string>
+
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Settings option for MainActivity -->
+    <string name="action_insert_dummy_book">Insert Dummy Book</string>
+    <string name="action_delete_entire_database">Delete entire database</string>
+
+    <!-- Settings option for Editor -->
+    <string name="editor_activity_title_new_book">Add a book</string>
+    <string name="editor_activity_title_edit_book">Edit book</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+
+    <!-- Not entered values -->
+    <string name="product_name_not_entered">Product\'s name wasn\'t entered</string>
+    <string name="price_not_entered">Product\'s price wasn\'t entered</string>
+    <string name="quantity_not_entered">Product\'s quantity wasn\'t entered</string>
+    <string name="supplier_name_not_entered">Supplier\'s name wasn\'t entered</string>
+    <string name="supplier_phone_number_not_entered">Supplier\'s phone number wasn\'t entered</string>
+
+    <!-- Hints -->
+    <string name="hint_product_name">A product\'s name required</string>
+    <string name="hint_price">A product\'s price required</string>
+    <string name="hint_quantity">A product\'s quantity required</string>
+    <string name="hint_supplier_name">Supplier\'s name required</string>
+    <string name="hint_supplier_phone_number">Supplier\'s mob. required</string>
+
+    <!-- Toast messages in editor -->
+    <string name="empty_view_title_text">Please insert a book to the database&#8230;</string>
+    <string name="editor_insert_book_successful">Book updated</string>
+    <string name="editor_insert_book_failed">Error with saving book</string>
+    <string name="editor_update_book_successful">Book updated</string>
+    <string name="editor_update_book_failed">Error with updating book</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="error_while_empty_editor">Book wasn\'t save because of empty fields.\nPlease fill all fields. </string>
+    <string name="invalid_or_empty_number">Invalid number or the number is not documented!</string>
+    <string name="btn_sale_one_product_sold">One book is sold.</string>
+    <string name="btn_sale_sold_out">All books with this title are sold out.</string>
+    <string name="btn_quantity_increase">The quantity was been increase by one.</string>
+    <string name="btn_quantity_decrease">The quantity was been decrease by one</string>
+    <string name="btn_quantity_empty_stock">The book with this title is out of the stock.</string>
+
+    <!-- Dialog messages for leaving editor -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this pet?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Notes for form and list -->
+    <string name="note_name">Name:</string>
+    <string name="note_price">Price in £:</string>
+    <string name="note_quantity">Quantity:</string>
+    <string name="note_supplier">Supplier name:</string>
+    <string name="note_supplier_mob">Supplier mob.:</string>
+
+    <!-- Buttons -->
+    <string name="btn_sale">SALE</string>
+    <string name="btn_decrease">-</string>
+    <string name="btn_increase">+</string>
+    <string name="btn_call">CALL SUPPLIER</string>
+</resources>
